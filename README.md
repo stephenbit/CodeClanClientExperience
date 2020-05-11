@@ -10,4 +10,4 @@ The application will track attendance and store inforamtion about the service us
 - Emergency contact
 - GP details
 
-<img src="./assets/vision-refactor-pycp.png" alt="Vision of refactor diagram" style="zoom:50%;" />
+<img src="./assets/vision-refactor-pycp.png" alt="Vision of refactor diagram" width="200" />
